@@ -1,0 +1,65 @@
+.list {
+  text-align: left;
+  max-width: 1750px;
+  background-color: transparent;
+  font-family: "";
+  margin: auto;
+  
+}
+
+.submit-form {
+  max-width: 1000px;
+  margin: auto;
+
+}
+
+.edit-form {
+  max-width: 1000px;
+  
+ /* margin: auto;*/
+}
+
+.form-control {
+margin: auto;
+background-color:  ;
+}
+
+.but 
+{
+  background-color: grey; 
+  border: none;
+  color: black;
+  padding: 12px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  alignment-baseline: central;
+  /*align-self: center;*/
+  /*border-radius: 80%;*/
+}
+.full
+{
+	
+	 background-image: url("./img/musicback.jpg");
+	 background-repeat: no-repeat;
+	/*padding-left: 150px;*/
+	/* margin: auto;*/
+
+}
+.box1 , .box2, .box3, .box4 
+{
+	 padding: 5px 10px;
+	background: white;
+	color : black;
+	padding-left:20px; 
+}
+.audio {
+	
+	
+	padding: 5px 10px;
+}
+.t
+{
+	color:grey;
+}
